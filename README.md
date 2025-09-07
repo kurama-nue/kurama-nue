@@ -9,7 +9,7 @@
 ### 👨‍💼 About Me
 
 * 🎓 Diploma in Computer Science | GRD-IMT | Class of 2025
-* 🎓 Micro-Credit in Computer Science | Masai School
+* 🎓 Micro-Credit in Computer Science | IIT Guwhati
 * 💼 Internships at IIT Mandi and SLOG Solutions Pvt. Ltd.
 * 💡 I love building interactive hardware projects and creative frontend designs
 * 📢 Contact: [rahullothani54@gmail.com](mailto:rahullothani54@gmail.com)
